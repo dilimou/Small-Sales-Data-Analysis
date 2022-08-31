@@ -23,19 +23,19 @@ All the codes are written using Microsoft VS code. The code should run with no i
 
 - dataset
      - Data.rar
-            - Data
-            - Sales_April_2019.csv
-            - Sales_August_2019.csv
-            - Sales_December_2019.csv
-            - Sales_February_2019.csv
-            - Sales_January_2019.csv
-            - Sales_July_2019.csv
-            - Sales_June_2019.csv
-            - Sales_March_2019.csv
-            - Sales_May_2019.csv
-            - Sales_November_2019.csv
-            - Sales_October_2019.csv
-            - Sales_September_2019.csv  
+       - Data
+       - Sales_April_2019.csv
+       - Sales_August_2019.csv
+       - Sales_December_2019.csv
+       - Sales_February_2019.csv
+       - Sales_January_2019.csv
+       - Sales_July_2019.csv
+       - Sales_June_2019.csv
+       - Sales_March_2019.csv
+       - Sales_May_2019.csv
+       - Sales_November_2019.csv
+       - Sales_October_2019.csv
+       - Sales_September_2019.csv  
 - combine_data.py # Script to generate the model
 - clean_data.py # Model generated
 - Power BI dashboard.png #
