@@ -58,6 +58,10 @@ All the codes are written using Microsoft VS code. The code should run with no i
 
 ## Results<a name="results"></a>
 
+Power BI dashboard
+![Power BI dashboard](https://user-images.githubusercontent.com/23463800/187726898-bd01c66b-ec59-4e57-97e1-a588015232d0.png)
+
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
