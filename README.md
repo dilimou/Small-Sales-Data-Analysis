@@ -36,9 +36,9 @@ All the codes are written using Microsoft VS code. The code should run with no i
             - Sales_November_2019.csv
             - Sales_October_2019.csv
             - Sales_September_2019.csv  
-- combine_data.py # Script to generate the model
-- clean_data.py # Model generated
-- Power BI dashboard.png #
+- combine_data.py # Script to combine the multiple files of the dataset
+- clean_data.py # Script to clean the data
+- Power BI dashboard.png # Power BI overview of the data
 - README.md
 
 
