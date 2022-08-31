@@ -52,7 +52,7 @@ All the codes are written using Microsoft VS code. The code should run with no i
     The script will combine the files in the source folder "Data" and save it in a single file "combined_data.csv"
     
     - To run the script that cleans the data      
-        `python clean_data.py "combined_data.csv" "cleaned_data.csv`  
+        `python clean_data.py "combined_data.csv" "cleaned_data.csv"`  
     The script will generate a new file with the cleaned "cleaned_data.csv" 
 
 
