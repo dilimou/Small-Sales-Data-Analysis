@@ -85,7 +85,7 @@ def main():
     
     else:
         print('Please provide the path to the csv file and the path to save the cleaned data '\
-              'Example: python combine_data.py "./Sales_Data" "all_data.csv"')
+              'Example: python clean_data.py "combined_data.csv" "cleaned_data.csv"')
 
 
 if __name__ == '__main__':
