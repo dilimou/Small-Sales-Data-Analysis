@@ -38,6 +38,7 @@ All the codes are written using Microsoft VS code. The code should run with no i
             - Sales_September_2019.csv  
 - combine_data.py # Script to combine the multiple files of the dataset
 - clean_data.py # Script to clean the data
+- Draft_Data_Exploration.ipynb # Data exploration and transformation draft
 - Power BI dashboard.png # Power BI overview of the data
 - README.md
 
