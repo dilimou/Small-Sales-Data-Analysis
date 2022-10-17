@@ -40,6 +40,7 @@ All the codes are written using Microsoft VS code. The code should run with no i
 - clean_data.py # Script to clean the data
 - Draft_Data_Exploration.ipynb # Data exploration and transformation draft
 - Power BI dashboard.png # Power BI overview of the data
+- Analysis.ipynb # Analysis of the cleaned data
 - README.md
 
 
